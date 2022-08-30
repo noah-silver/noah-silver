@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm Noah!
-I'm an economist specializing in environmental economics and policy. I have nearly 5 years of experience programming in R, with an advanced skill set in machine learning, scientific computing, and data visualization. I currently work as a consultant at [Industrial Economics, Incorporated (IEc)](https://www.indecon.com) in Cambridge, MA.
+I specialize in environmental economics and policy. I have nearly 5 years of experience programming in R, with an advanced skill set in machine learning, scientific computing, and data visualization. I currently work as a consultant at [Industrial Economics, Incorporated (IEc)](https://www.indecon.com) in Cambridge, MA.
 
 
 [![Website Badge](https://img.shields.io/badge/-Website-blue?style=plastic&link=https://www.noah-silver.com)](https://www.noah-silver.com)
